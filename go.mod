@@ -3,7 +3,7 @@ module github.com/NextCodeX/desktop-application-pedestal
 go 1.20
 
 require (
-	github.com/changlie/go-common v0.1.22
+	github.com/changlie/go-common v0.1.24
 	github.com/shirou/gopsutil v3.21.11+incompatible
 )
 
